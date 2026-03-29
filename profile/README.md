@@ -1,19 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# WM Project
 
-**Here are some ideas to get you started:**
+**Plateforme de gestion de patrimoine immobilier**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+*Suivez, analysez et optimisez votre patrimoine en toute simplicité.*
 
-# THE Project
+</div>
 
-| Projet | CI |
-|--------|----|
-| api    | ![CI](https://github.com/WM-Project/api/actions/workflows/ci.yml/badge.svg) |
-| app    | ![CI](https://github.com/WM-Project/app/actions/workflows/ci.yml/badge.svg) |
+---
+
+## 🏗️ Repositories
+
+| Projet | Description | CI |
+|--------|-------------|-----|
+| [**api**](https://github.com/WM-Project/api) | API Laravel — authentification, gestion des biens & utilisateurs | [![Quality & Tests](https://github.com/WM-Project/api/actions/workflows/ci.yml/badge.svg)](https://github.com/WM-Project/api/actions/workflows/ci.yml) |
+| [**app**](https://github.com/WM-Project/app) | Frontend Vue 3 — interface utilisateur | [![App — Lint, Types & Build](https://github.com/WM-Project/app/actions/workflows/ci.yml/badge.svg)](https://github.com/WM-Project/app/actions/workflows/ci.yml) |
+| [**bruno**](https://github.com/WM-Project/bruno) | Collection Bruno — tests et documentation API | — |
+
+---
+
+## 🛠️ Stack technique
+
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.4-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
